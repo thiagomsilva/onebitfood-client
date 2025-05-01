@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <Navbar bg="white" expand="lg" className="border-bottom border-custom-gray">
       <Navbar.Brand className="mx-3">
-        <Link href="/restaurant">
+        <Link href="/restaurants">
             <Image
               src="/logo.png"
               alt="OneBitFood"
